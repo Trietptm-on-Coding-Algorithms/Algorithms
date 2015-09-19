@@ -5,3 +5,4 @@
     [+]Palindromic numbers
     [+]Palindromic letters 
     [+]Hamming numbers
+<script>alert("b3mb4m")</script>
