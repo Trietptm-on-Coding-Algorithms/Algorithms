@@ -6,7 +6,7 @@
 #Assume S 0.27348
 #And we want 10 random ..
 
-const = 0
+const = 0.27348
 pi = 3.14159
 for x in xrange(0, 10):
 	cache = (const+pi)**8 
