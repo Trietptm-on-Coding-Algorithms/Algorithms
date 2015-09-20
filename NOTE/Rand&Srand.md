@@ -28,4 +28,9 @@
         147 
         Engel  Algorithms?  
         
-    That function (srand) prevent repeat same numbers. 
+    So as you can see srand() function is necessarily to use.
+    - srand((unsigned) time(NULL));
+    ---------------------------------------------------------------------------------
+    Also ! 
+    Again, C function which is randomize(), if you use that function with rand(),
+    randomize() function will be prevent to repeat numbers.
