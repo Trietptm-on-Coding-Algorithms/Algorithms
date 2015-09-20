@@ -1,4 +1,5 @@
 # Algorithms
+    [+]Prime Numbers
     [+]Fibonacci
     [+]Factorial
     [+]Single variable equations
