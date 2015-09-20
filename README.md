@@ -5,4 +5,5 @@
     [+]Palindromic numbers
     [+]Palindromic letters 
     [+]Hamming numbers
+    [+]Middle-square method (Pseudorandom numbers - John von Neumann)
 
