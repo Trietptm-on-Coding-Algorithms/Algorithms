@@ -7,3 +7,4 @@
     [+]Hamming numbers
     [+]Middle-square method (Pseudorandom numbers - John von Neumann)
     [+]147 Algorithm (Pseudorandom numbers)
+    [+]Engel Algorithm (Pseudorandom numbers)
