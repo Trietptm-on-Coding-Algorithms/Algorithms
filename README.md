@@ -11,3 +11,4 @@
     [+]Engel Algorithm (Pseudorandom numbers)
     [+]Blum Blum Shub (Pseudorandom numbers)
     [+]Catalan Numbers
+    [+]GCD&LCD (Greatest common divisor & Least Common Multiple )
