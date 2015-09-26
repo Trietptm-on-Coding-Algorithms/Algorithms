@@ -12,3 +12,4 @@
     [+]Blum Blum Shub (Pseudorandom numbers)
     [+]Catalan Numbers
     [+]GCD&LCD (Greatest common divisor & Least Common Multiple )
+    [+]Euclid algorithm
