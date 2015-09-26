@@ -10,3 +10,4 @@
     [+]147 Algorithm (Pseudorandom numbers)
     [+]Engel Algorithm (Pseudorandom numbers)
     [+]Blum Blum Shub (Pseudorandom numbers)
+    [+]Catalan Numbers
