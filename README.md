@@ -13,3 +13,4 @@
     [+]Catalan Numbers
     [+]GCD&LCD (Greatest common divisor & Least Common Multiple )
     [+]Euclid algorithm
+    [+]Triangular&Square&Pentegonal&Hexagonal&Heptagonal&Octagonal Numbers
