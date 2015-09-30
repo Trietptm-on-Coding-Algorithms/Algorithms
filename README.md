@@ -17,3 +17,4 @@
     [+]The prime factor separation
     [+]Perfect Numbers
     [+]Amicable Numbers
+    [+]Kaprekar Numbers
