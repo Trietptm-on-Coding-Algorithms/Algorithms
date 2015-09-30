@@ -15,3 +15,4 @@
     [+]Euclid algorithm
     [+]Triangular&Square&Pentegonal&Hexagonal&Heptagonal&Octagonal Numbers
     [+]The prime factor separation
+    [+]Perfect Numbers
