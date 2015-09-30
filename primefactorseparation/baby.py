@@ -3,7 +3,7 @@ mylist = []
 
 #Coded By B3mB4m
 
-for x in xrange(2, 100):
+for x in xrange(2, number):
 	if len([y for y in range(2,x)  if x%y == 0]) == 0:
 		while number > 1:
 			if number % x == 0:
