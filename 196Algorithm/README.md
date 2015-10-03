@@ -1,5 +1,5 @@
 #Test results
-      //Numbers will be little "huge" even limit 100 ..
+      //Numbers will be little "huge" even range limit 100 ..
       
       Fail : 877
       Fail : 1655
