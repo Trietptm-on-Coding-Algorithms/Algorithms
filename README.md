@@ -19,3 +19,4 @@
     [+]Amicable Numbers
     [+]Kaprekar Numbers
     [+]Steinhaus Cyclus
+    [+]196-algorithm
