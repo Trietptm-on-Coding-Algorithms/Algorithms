@@ -18,3 +18,4 @@
     [+]Perfect Numbers
     [+]Amicable Numbers
     [+]Kaprekar Numbers
+    [+]Steinhaus Cyclus
