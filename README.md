@@ -20,3 +20,4 @@
     [+]Kaprekar Numbers
     [+]Steinhaus Cyclus
     [+]196-algorithm
+    [+]1089 Numbers
