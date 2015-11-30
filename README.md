@@ -22,3 +22,4 @@
     [+]196-algorithm
     [+]1089 Numbers
     [+]Ones' complement
+    [+]Two's complement
