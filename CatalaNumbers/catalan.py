@@ -3,7 +3,7 @@
 #And we want first x10 number ..
 
 def fac(number):
-	return eval("*".join([str(x) for x in xrange(1,int(number)+1)][::-1]))
+	return eval("*".join([str(x) for x in xrange(1,number+1)][::-1]))
 	#https://github.com/b3mb4m/Algorithms/blob/master/factorial/fac.py
 
 for n in xrange(1, 11):

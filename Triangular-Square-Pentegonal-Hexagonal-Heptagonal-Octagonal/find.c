@@ -6,7 +6,7 @@
 
 
 int triangular (int n){return  ((n*(n+1)/2));}			
-int square	   (int n){return  (pow(n, 2));}					
+int square     (int n){return  (pow(n, 2));}
 int pentagonal (int n){return  (n*(3*n-1))/2;}			
 int hexagonal  (int n){return  (n*(2*n-1));}				 
 int heptagonal (int n){return  (n*(5*n-3))/2;}			

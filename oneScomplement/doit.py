@@ -6,26 +6,19 @@
 
 def oneScomplement( number):
 	list = []
-	number = number[::-1]
+	number = str(number).upper()[::-1]
 	total = 0
 	oneScomplement = ""
-	for x in xrange(0, len(str(number))):
-		if   str(number[x]).upper() == "A":  total = total + int(10)*(16**x);
-		elif str(number[x]).upper() == "B":  total = total + int(11)*(16**x);
-		elif str(number[x]).upper() == "C":  total = total + int(12)*(16**x);
-		elif str(number[x]).upper() == "D":  total = total + int(13)*(16**x);
-		elif str(number[x]).upper() == "E":  total = total + int(14)*(16**x);
-		elif str(number[x]).upper() == "F":  total = total + int(15)*(16**x);
-		else:	total = total + int(number[x])*(16**x)
+	for x in xrange(0, len(number)):
+		if   number[x] == "A":  total = total + 10*(16**x);
+		elif number[x] == "B":  total = total + 11*(16**x);
+		elif number[x] == "C":  total = total + 12*(16**x);
+		elif number[x] == "D":  total = total + 13*(16**x);
+		elif number[x] == "E":  total = total + 14*(16**x);
+		elif number[x] == "F":  total = total + 15*(16**x);
+		else:	total = total + int(number[x],10)*(16**x)
 
 	while total >= 1:
-		list.append(str(total % 2))
-		total = total / 2
-	total = str("".join(list[::-1]))
-
-	for x in total:
-		if x == "1":
-			oneScomplement += "0"
-		else:
-			oneScomplement += "1"
+		oneScomplement += str(total%2)
+		total = total // 2
 	return oneScomplement
