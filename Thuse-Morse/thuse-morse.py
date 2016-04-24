@@ -8,7 +8,7 @@ numbercache = ""
 number = 10
 stop = 6 #Just 6 times 
 while stop > 0:
-	for x in [x for x in str(number)]:
+	for x in str(number):
 		if int(x) == 1:
 			numbercache += "10"
 		else:
